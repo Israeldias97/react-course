@@ -4,7 +4,7 @@
         const element = () => {
             return(
                 <div>
-                    <h1>Helo World!</h1>;
+                    <h1>Helo World!</h1>
                     <p>Welcome to React!</p>
                 </div>
                 );
