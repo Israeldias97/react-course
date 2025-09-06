@@ -1,0 +1,10 @@
+{
+    "name":"live-refresh",
+    "version" : "1.0.0",
+    "author": "Israel Dias",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node --watch ./server.js"
+    }
+}
